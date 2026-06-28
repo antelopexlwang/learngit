@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Hello world.
 Good morning.
 Merge version.
+xixixixixixi.
